@@ -1,5 +1,4 @@
-// You can add JavaScript here for additional interactivity
-// For example, smooth scrolling to sections or a mobile menu toggle
+bootstrap.bundle.min.js
 document.querySelectorAll('nav a').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
         e.preventDefault();
